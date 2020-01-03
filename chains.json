@@ -1,0 +1,12 @@
+[
+    {
+      "id": "cosmos-hub3",
+      "icon": "https://pbs.twimg.com/profile_images/945220952207507456/qM9pcmRf_400x400.jpg",
+      "name": "Cosmos Mainnet (cosmos-hub3)",
+      "lcd_url": "http://127.0.0.1:1317",
+      "rpc_url": "tcp://18.188.69.30:26657",
+      "bech32_hrp": "cosmos",
+     "token": "atom" 
+   }
+]
+  
