@@ -11,7 +11,7 @@
    {
     "id": "gaia-13007",
     "icon": "https://pbs.twimg.com/profile_images/945220952207507456/qM9pcmRf_400x400.jpg",
-    "name": "Cosmos Mainnet (cosmos-hub3)",
+    "name": "Cosmos Testnet (Gaia-13007)",
     "lcd_url": "http://18.196.20.239:1317",
     "rpc_url": "tcp://18.188.20.239:26657",
     "bech32_hrp": "cosmos",
