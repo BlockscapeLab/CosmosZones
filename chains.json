@@ -1,21 +1,28 @@
-[
-    {
-      "id": "cosmos-hub3",
-      "icon": "https://pbs.twimg.com/profile_images/945220952207507456/qM9pcmRf_400x400.jpg",
-      "name": "Cosmos Mainnet (cosmos-hub3)",
-      "lcd_url": "http://18.196.20.239:1317",
-      "rpc_url": "tcp://18.196.20.239:26657",
-      "bech32_hrp": "cosmos",
-     "token": "uatom" 
-   }, 
-   {
+[{
+    "id": "cosmos-hub3",
+    "icon": "https://pbs.twimg.com/profile_images/945220952207507456/qM9pcmRf_400x400.jpg",
+    "name": "Cosmos Mainnet (cosmos-hub3)",
+    "lcd_url": "http://18.196.20.239:1317",
+    "rpc_url": "tcp://18.196.20.239:26657",
+    "bech32_hrp": "cosmos",
+    "token": "uatom"
+  },
+  {
     "id": "gaia-13007",
     "icon": "https://pbs.twimg.com/profile_images/945220952207507456/qM9pcmRf_400x400.jpg",
     "name": "Cosmos Testnet (Gaia-13007)",
     "lcd_url": "http://3.122.194.96:1317",
     "rpc_url": "tcp://3.122.194.96:26657",
     "bech32_hrp": "cosmos",
-   "token": "umuon" 
- }
+    "token": "umuon"
+  },
+  {
+    "id": "emoney-1",
+    "icon": "https://pbs.twimg.com/profile_images/945220952207507456/qM9pcmRf_400x400.jpg",
+    "name": "e-Money Mainnet 1",
+    "lcd_url": "http://18.184.192.245:1317",
+    "rpc_url": "tcp://18.184.192.245:26657",
+    "bech32_hrp": "emoney",
+    "token": "ungm"
+  }
 ]
-  
