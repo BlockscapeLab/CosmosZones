@@ -24,5 +24,14 @@
     "rpc_url": "tcp://18.184.192.245:26657",
     "bech32_hrp": "emoney",
     "token": "ungm"
+  },
+  {
+    "id": "test-chain-jidlHM",
+    "icon": "https://pbs.twimg.com/profile_images/945220952207507456/qM9pcmRf_400x400.jpg",
+    "name": "localnet",
+    "lcd_url": "http://127.0.0.1:1317",
+    "rpc_url": "tcp://127.0.0.1:26657",
+    "bech32_hrp": "cosmos",
+    "token": "stake"
   }
 ]
